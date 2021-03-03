@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "task": "Give dog a bath",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "task": "Do laundry",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "task": "Vacuum floor",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Feed cat",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "task": "Change light bulbs",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "task": "Go to Store",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "task": "Fill gas tank",
+    "completed": true
+  },
+  {
+    "id": 8,
+    "task": "Change linens",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "task": "Rake leaves",
+    "completed": true
+  },
+  {
+    "id": 10,
+    "task": "Bake Cookies",
+    "completed": false
+  },
+  {
+    "id": 11,
+    "task": "Take nap",
+    "completed": true
+  },
+  {
+    "id": 12,
+    "task": "Read book",
+    "completed": true
+  },
+  {
+    "id": 13,
+    "task": "Exercise",
+    "completed": false
+  },
+  {
+    "id": 14,
+    "task": "Give dog a bath",
+    "completed": false
+  },
+  {
+    "id": 15,
+    "task": "Do laundry",
+    "completed": false
+  },
+  {
+    "id": 16,
+    "task": "Vacuum floor",
+    "completed": false
+  },
+  {
+    "id": 17,
+    "task": "Feed cat",
+    "completed": true
+  },
+  {
+    "id": 18,
+    "task": "Change light bulbs",
+    "completed": false
+  },
+  {
+    "id": 19,
+    "task": "Go to Store",
+    "completed": false
+  },
+  {
+    "id": 20,
+    "task": "Fill gas tank",
+    "completed": false
+  }
+]
