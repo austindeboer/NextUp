@@ -7,6 +7,8 @@ import Header from '../Header/Header';
 import TodoTask from '../TodoTask/TodoTask';
 import { TodoList } from '../TodoList/TodoList';
 
+// finish this
+
 function App() {
   const [todoList, setTodoList] = useState();
 
